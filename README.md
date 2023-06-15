@@ -1,6 +1,6 @@
 # Pipex_42
 
-Il mio progetto per la scuola 42, dove bisogna ricreare il comportamento dell'utility PIPE in C. 
+Il mio progetto per la scuola 42, dove e' necessario ricreare il comportamento dell'utility PIPE in C. 
 Il progetto è stato davvero utilissimo per comprendere approfonditamente la logica dei processi in parallelo e le chiamate di sistema per la gestione degli stessi nei sistemi UNIX. 
 Ho colto l'occasione per esplorare i topic del progetto nel libro "Sistemi Operativi: concetti ed esempi" di A.Silberschatz, P.B.Galvin e G.Gagne, libro che trovo fondamentale e sul quale sto continuando a studiare. 
 Un grande ringraziamento sia ai colleghi della scuola che al canale youtube CODE VAULT, nel quale viene spiegato l'argomento dei processi UNIX-LINUX in maniera estremamente approfondita. 
